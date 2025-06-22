@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am Engetelo Mathebane 
+## I am Engetelo Mesia Thwala
 🎓 A 3rd year IT Student at Cape Peninsula University of Technology,. I am a motivated and dedicated student with a strong passion for coding and project 
 management. I am eager to leverage my knowledge and skills in a dynamic and growth-oriented environment.
 
