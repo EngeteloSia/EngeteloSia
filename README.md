@@ -16,12 +16,6 @@ management. I am eager to leverage my knowledge and skills in a dynamic and grow
 ### Currently learning 
 - React
 - app development
-  
-## 🔭 I’m currently working on
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Digital Portfolio(https://github.com/EngeteloSia/Digital-Portfolio) | Work readiness GitHub portfolio | Markdown |
-| [Project 3 Name](https://github.com/EngeteloSia/Project3--Online-ordering-school-Cafeteria) | online ordering application  | React native, firebase |
 
 ## 📫 connect with me 
 
